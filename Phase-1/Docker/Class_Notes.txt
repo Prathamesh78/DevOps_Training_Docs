@@ -145,7 +145,7 @@
 			
 			docker pull <image_name>:tag 
 			
-			docker run >image_name>:tag 
+			docker run <image_name>:tag 
 			
    15  sudo apt install docker.io -y
    16  clear
